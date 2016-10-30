@@ -3,3 +3,4 @@ php artisan make:migration create_xxx_table
 
 // Run a query create data table
 php artisan migrate
+// continue
