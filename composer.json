@@ -1,6 +1,6 @@
 {
-    "name": "laravel/laravel",
-    "description": "The Laravel Framework.",
+    "name": "laravel/LaravelCRUD",
+    "description": "The Laravel Demo for Framework.",
     "keywords": ["framework", "laravel"],
     "license": "MIT",
     "type": "project",
